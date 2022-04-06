@@ -1,6 +1,6 @@
 # Women-and-Girls-Education-The-Unequal-Balance
 
-# Education Levels of Girls and Women in Philippines 1998
+## Education Levels of Girls and Women in Philippines 1998
 
   - Authors: Dingding Wang, Xueru Ma, and Meixuan Chen
   - Date: April 5th, 2022
