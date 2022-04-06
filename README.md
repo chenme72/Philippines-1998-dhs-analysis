@@ -1,4 +1,4 @@
-# Women-and-Girls-Education-The-Unequal-Balance
+# Women and Girls Education The Unequal Balance
 
 ## Education Levels of Girls and Women in Philippines 1998
 
